@@ -1,0 +1,10 @@
+name: coverage_dashboard
+title:
+username: bioinforma
+account: bioinforma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14882186
+bundleId: 10398339
+url: https://bioinforma.shinyapps.io/coverage_dashboard/
+version: 1
